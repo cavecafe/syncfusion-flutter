@@ -1,0 +1,11 @@
+.dart_tool
+build
+ios/Pods/Target Support Files
+ios/Pods
+.flutter-plugins
+.flutter-plugins-dependencies
+ios/.symlinks
+ios/Flutter
+ios/Runner.xcworkspace/xcshareddata
+ios/Runner.xcworkspace/xcuserdata
+linux/flutter/ephemeral

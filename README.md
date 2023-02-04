@@ -67,10 +67,7 @@ Open the flutter example folder in an IDE.
 **Step 3**
 
 Run the following command to get the required packages.
-
-```dart
-$ flutter pub get
-```
+ flutter pub get
 
 **Step 4**
 
