@@ -19,6 +19,9 @@ dependencies:
   desktop_window: 0.4.0
   intl: ^0.17.0
 
+  # AppCenter
+  appcenter_bundle: ^1.0.3
+
   syncfusion_localizations: ^20.4.38
   syncfusion_flutter_datagrid_export: ^20.4.38-beta
   syncfusion_flutter_calendar: ^20.4.38
